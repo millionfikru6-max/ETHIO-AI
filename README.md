@@ -104,3 +104,6 @@ If you like this project, please give it a star ⭐ on GitHub.
 ## 👀 Visitors
 
 ![](https://komarev.com/ghpvc/?username=millionfikru-max&color=blue)
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight)
