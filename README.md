@@ -1,4 +1,4 @@
-🚀 ETHIO-AI
+⁷🚀 ETHIO-AI
 ETHIO-AI is a futuristic Ethiopian AI music and entertainment platform inspired by cyberpunk design and Ethiopian culture.
 🌐 Live Website: https://ethio-ai.netlify.app/
 ✨ Features
@@ -90,7 +90,7 @@ MIT License
 GitHub: https://github.com/millionfikru6-max
 
 Website: https://ethio-ai.netlify.app/
-![GitHub 
+
 ## 🚀 Future Plans
 
 - 🎵 AI Music Generator
@@ -106,7 +106,7 @@ If you like this project, please give it a star ⭐ on GitHub.
 ![](https://komarev.com/ghpvc/?username=millionfikru-max&color=blue)
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight&no-frame=true&margin-w=10)
 ## 📫 Contact
 
 - GitHub: https://github.com/millionfikru-max
