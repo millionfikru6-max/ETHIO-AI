@@ -30,3 +30,16 @@ Music Section
 (Add screenshot here)
 AI Features
 (Add screenshot here)
+📁 Project Structure
+ETHIO-AI │ ├── index.html ├── style.css ├── script.js ├── robots.txt ├── sitemap.xml ├── favicon.png └── README.md
+📊 GitHub Stats
+(Add GitHub stats here)
+🌐 Connect With Me
+GitHub: https://github.com/millionfikru-max
+Website: https://ethio-ai.netlify.app/
+🚀 Future Plans
+🎵 AI Music Generator
+🤖 Smart AI Assistant
+🎬 Entertainment Platform
+📱 Mobile App Version
+🌍 Global Ethiopian Digital Community
