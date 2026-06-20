@@ -87,3 +87,4 @@ MIT License
 GitHub: https://github.com/millionfikru6-max
 
 Website: https://ethio-ai.netlify.app/
+![GitHub Streak](https://streak-stats.demolab.com/?user=millionfikru6-max&theme=tokyonight)
