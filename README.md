@@ -67,3 +67,4 @@ MIT License
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=millionfikru6-max&color=blue)
