@@ -43,3 +43,15 @@ Website: https://ethio-ai.netlify.app/
 🎬 Entertainment Platform
 📱 Mobile App Version
 🌍 Global Ethiopian Digital Community
+⭐ Support
+If you like this project, please give it a ⭐ on GitHub.
+🌍 Vision
+"Where Ethiopian Culture Meets Artificial Intelligence."
+🚀 Fun Fact
+Building the future of Ethiopian AI and digital entertainment.
+🛠 Tech Stack
+HTML5 • CSS3 • JavaScript • GitHub • Netlify
+📜 License
+This project is licensed under the MIT License.
+⭐ Thank you for visiting ETHIO-AI!
+Made with ❤️ by Million Fikru
