@@ -114,3 +114,6 @@ If you like this project, please give it a star ⭐ on GitHub.
 ## 🌍 Vision
 
 "Where Ethiopian Culture Meets Artificial Intelligence."
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=millionfikru-max&theme=tokyo-night)
