@@ -68,3 +68,12 @@ MIT License
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 ![Visitor Count](https://komarev.com/ghpvc/?username=millionfikru6-max&color=blue)
+## 📂 Project Structure
+
+├── index.html
+├── style.css
+├── script.js
+├── robots.txt
+├── sitemap.xml
+├── favicon.png
+└── README.md
