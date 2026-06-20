@@ -82,3 +82,8 @@ MIT License
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=millionfikru6-max&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millionfikru6-max&layout=compact&theme=tokyonight
+## 🌐 Connect With Me
+
+GitHub: https://github.com/millionfikru6-max
+
+Website: https://ethio-ai.netlify.app/
