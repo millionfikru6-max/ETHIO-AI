@@ -56,3 +56,14 @@ MIT License
 ### AI Features
 
 (Add screenshot here)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
