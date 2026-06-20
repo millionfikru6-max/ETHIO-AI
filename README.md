@@ -223,7 +223,7 @@ If you like this project, please give it a star ⭐ on GitHub.
 
 ![](https://komarev.com/ghpvc/?username=millionfikru-max&color=blue)
 ## 🏆 GitHub Trophies
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight)
 ![](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight&no-frame=true&margin-w=10)
 ## 📫 Contact
 
