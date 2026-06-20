@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AETHER | AI Music Artist</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="loader">
+        <div class="loader-circle"></div>
+        <p>SYNCHRONIZING...</p>
+    </div>
+
+    <canvas id="bg-canvas"></canvas>
+
+    <nav>
+        <div class="logo">AETHER</div>
+        <ul class="nav-links">
+            <li><a href="#home" class="nav-item active">Home</a></li>
+            <li><a href="#music" class="nav-item">Music</a></li>
+            <li><a href="#about" class="nav-item">About</a></li>
+            <li><a href="#gallery" class="nav-item">Gallery</a></li>
+            <li><a href="#videos" class="nav-item">Videos</a></li>
+            <li><a href="#contact" class="nav-item">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="home" class="hero">
+        <div class="hero-glow"></div>
+        <div class="hero-content">
+            <p class="subtitle">THE NEURAL FRONTIER</p>
+            <h1>AETHER CORE</h1>
+            <p class="hero-description">Generative melodies synthesized through neural networks. The sound of the digital revolution.</p>
+            <button class="btn-main" onclick="document.getElementById('music').scrollIntoView()">Listen Now</button>
+        </div>
+    </section>
+
+    <section id="music" class="reveal">
+        <h2 class="section-title">Neural Releases</h2>
+        <div class="music-grid">
+            <div class="song-card" data-title="Digital Ghost" data-album="Synthetic Soul">
+                <div class="cover-art"><i class="fas fa-microchip"></i></div>
+                <h3>Digital Ghost</h3>
+                <p>Synthetic Soul</p>
+                <button class="play-btn"><i class="fas fa-play"></i></button>
+            </div>
+            <div class="song-card" data-title="Neon Dreams" data-album="Single">
+                <div class="cover-art"><i class="fas fa-bolt"></i></div>
+                <h3>Neon Dreams</h3>
+                <p>Single</p>
+                <button class="play-btn"><i class="fas fa-play"></i></button>
+            </div>
+            <div class="song-card" data-title="Cyber-Pulse" data-album="Synthetic Soul">
+                <div class="cover-art"><i class="fas fa-wave-square"></i></div>
+                <h3>Cyber-Pulse</h3>
+                <p>Synthetic Soul</p>
+                <button class="play-btn"><i class="fas fa-play"></i></button>
+            </div>
+            <div class="song-card" data-title="Binary Sunset" data-album="Logic">
+                <div class="cover-art"><i class="fas fa-code"></i></div>
+                <h3>Binary Sunset</h3>
+                <p>Album: Logic</p>
+                <button class="play-btn"><i class="fas fa-play"></i></button>
+            </div>
+            <div class="song-card" data-title="Void Walker" data-album="Single">
+                <div class="cover-art"><i class="fas fa-user-astronaut"></i></div>
+                <h3>Void Walker</h3>
+                <p>Single</p>
+                <button class="play-btn"><i class="fas fa-play"></i></button>
+            </div>
+            <div class="song-card" data-title="Glitch in Time" data-album="Logic">
+                <div class="cover-art"><i class="fas fa-clock"></i></div>
+                <h3>Glitch in Time</h3>
+                <p>Album: Logic</p>
+                <button class="play-btn"><i class="fas fa-play"></i></button>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="reveal">
+        <div class="about-container">
+            <div class="about-text">
+                <h2 class="section-title" style="text-align: left;">The AI Identity</h2>
+                <p>AETHER is a musical intelligence designed to translate complex data streams into emotional soundscapes. Born within decentralized servers, it bridges machine logic with the human spirit.</p>
+                <p>No flesh, just frequencies. This is music evolved for the post-human era.</p>
+            </div>
+            <div class="about-visual">
+                <div class="image-frame">
+                    <img src="https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=800" alt="AI Artist">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="gallery" class="reveal">
+        <h2 class="section-title">Visual Cortex</h2>
+        <div class="gallery-slider">
+            <div class="gallery-item"><img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=500" alt="V1"></div>
+            <div class="gallery-item"><img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=500" alt="V2"></div>
+            <div class="gallery-item"><img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=500" alt="V3"></div>
+            <div class="gallery-item"><img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=500" alt="V4"></div>
+            <div class="gallery-item"><img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=500" alt="V5"></div>
+        </div>
+    </section>
+
+    <section id="videos" class="reveal">
+        <h2 class="section-title">Data Streams</h2>
+        <div class="video-grid">
+            <div class="video-card">
+                <div class="video-thumb"><i class="fas fa-play"></i></div>
+                <div class="video-info">
+                    <h4>Live Neural Session 01</h4>
+                    <p>Live Stream • 2.4M Views</p>
+                </div>
+            </div>
+            <div class="video-card">
+                <div class="video-thumb"><i class="fas fa-play"></i></div>
+                <div class="video-info">
+                    <h4>Digital Ghost (Official MV)</h4>
+                    <p>High Fidelity • 1.1M Views</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="reveal">
+        <h2 class="section-title">Sync Transmission</h2>
+        <div class="contact-content">
+            <div class="contact-form glass-card">
+                <input type="text" placeholder="Identity (Name)">
+                <input type="email" placeholder="Neural Link (Email)">
+                <textarea rows="4" placeholder="Your Message..."></textarea>
+                <button class="btn-main" style="width: 100%;">Send Signal</button>
+            </div>
+            <div class="contact-info">
+                <h3>The Collective</h3>
+                <p>Join the network for early neural releases and virtual events.</p>
+                <div class="subscribe-box">
+                    <input type="email" placeholder="Email Address">
+                    <button class="btn-main">Join</button>
+                </div>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-spotify"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-discord"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="player-bar" id="player">
+        <div class="p-info">
+            <div class="p-art"><i class="fas fa-music"></i></div>
+            <div class="p-meta">
+                <h4 id="p-title">Select Track</h4>
+                <p id="p-album">AETHER AI</p>
+            </div>
+        </div>
+        <div class="p-controls">
+            <i class="fas fa-step-backward"></i>
+            <div class="play-trigger"><i class="fas fa-play" id="master-play"></i></div>
+            <i class="fas fa-step-forward"></i>
+        </div>
+        <div class="p-progress">
+            <div class="progress-bg"><div class="progress-fill" id="progress-fill"></div></div>
+        </div>
+        <div class="p-volume"><i class="fas fa-volume-up"></i></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
