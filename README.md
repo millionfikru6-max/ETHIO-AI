@@ -95,3 +95,6 @@ Website: https://ethio-ai.netlify.app/
 - 🎬 Entertainment Platform
 - 📱 Mobile App Version
 - 🌍 Global Ethiopian Digital Community
+## ⭐ Support
+
+If you like this project, please give it a star ⭐ on GitHub.
