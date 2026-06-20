@@ -120,3 +120,6 @@ If you like this project, please give it a star ⭐ on GitHub.
 ## ⚡ Fun Fact
 
 🚀 Building the future of Ethiopian AI and digital entertainment.
+## 🛠 Tech Stack
+
+HTML5 • CSS3 • JavaScript • GitHub • Netlify
