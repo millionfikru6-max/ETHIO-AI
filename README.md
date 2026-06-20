@@ -132,44 +132,7 @@ MIT License
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=millionfikru6-max&theme=tokyonight)
 
-## 🌐 Connect With Me
-
-GitHub: https://github.com/millionfikru6-max
-
-Website: https://ethio-ai.netlify.app/
-
-## 🚀 Future Plans
-
-- 🎵 AI Music Generator
-- 🤖 Smart AI Assistant
-- 🎬 Entertainment Platform
-- 📱 Mobile App Version
-- 🌍 Global Ethiopian Digital Community
-## ⭐ Support
-
-If you like this project, please give it a star ⭐ on GitHub.
-## 👀 Visitors
-
-![](https://komarev.com/ghpvc/?username=millionfikru-max&color=blue)
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight&no-frame=true&margin-w=10)
-## 📫 Contact
-
-- GitHub: https://github.com/millionfikru-max
-- Website: https://ethio-ai.netlify.app/
-## 🌍 Vision
-
-"Where Ethiopian Culture Meets Artificial Intelligence."
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=millionfikru6-max&theme=tokyo-night)
-## ⚡ Fun Fact
-
-🚀 Building the future of Ethiopian AI and digital entertainment.
-## 🛠 Tech Stack
-
-HTML5 • CSS3 • JavaScript • GitHub • Netlify
+## 🌐 Connect With M
 
 ### AI Features
 
