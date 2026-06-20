@@ -111,3 +111,6 @@ If you like this project, please give it a star ⭐ on GitHub.
 
 - GitHub: https://github.com/millionfikru-max
 - Website: https://ethio-ai.netlify.app/
+## 🌍 Vision
+
+"Where Ethiopian Culture Meets Artificial Intelligence."
