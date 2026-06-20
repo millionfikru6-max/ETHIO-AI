@@ -101,3 +101,6 @@ Website: https://ethio-ai.netlify.app/
 ## ⭐ Support
 
 If you like this project, please give it a star ⭐ on GitHub.
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=millionfikru-max&color=blue)
