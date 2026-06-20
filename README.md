@@ -107,3 +107,7 @@ If you like this project, please give it a star ⭐ on GitHub.
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight)
+## 📫 Contact
+
+- GitHub: https://github.com/millionfikru-max
+- Website: https://ethio-ai.netlify.app/
