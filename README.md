@@ -88,3 +88,7 @@ Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight)
+## 📫 Contact
+
+- GitHub: https://github.com/millionfikru-max
+- Website: https://ethio-ai.netlify.app/
