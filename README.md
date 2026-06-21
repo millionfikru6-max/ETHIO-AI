@@ -21,18 +21,18 @@ GitHub: https://github.com/millionfikru6-max⁠�
 📜 License
 MIT License
 ## 📷 Screenshots
-
 ### Home Page
 
-(Add screenshot here)
+![Home Page](https://your-image-link)
 
 ### Music Section
 
-(Add screenshot here)
+![Music Section](https://your-image-link)
 
 ### AI Features
 
-(Add screenshot here)
+![AI Features](https://your-image-link)
+
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
