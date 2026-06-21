@@ -14,7 +14,7 @@ JavaScript
 Netlify
 GitHub
 🌐 Live Website
-https://ethio-ai.netlify.app/⁠�
+https://ethio-ai.netlify.app/⁠
 👨‍💻 Creator
 Million Fikru
 GitHub: https://github.com/millionfikru6-max⁠�
