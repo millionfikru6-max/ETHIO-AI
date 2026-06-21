@@ -101,3 +101,6 @@ Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 ## ⚡ Fun Fact
 
 🚀 Building the future of Ethiopian AI and digital entertainment.
+## 🛠 Tech Stack
+
+HTML5 • CSS3 • JavaScript • GitHub • Netlify
