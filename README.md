@@ -85,9 +85,7 @@ Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 ## 👀 Visitors
 
 ![](https://komarev.com/ghpvc/?username=millionfikru-max&color=blue)
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=millionfikru-max&theme=tokyonight)
 ## 📫 Contact
 
 - GitHub: https://github.com/millionfikru-max
