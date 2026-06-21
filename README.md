@@ -74,9 +74,9 @@ Website: https://ethio-ai.netlify.app/
 ### Ethiopian AI Music, Entertainment & Digital Culture Platform
 
 Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=millionfikru6-max&theme=tokyonight&no-frame=true&row=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=millionfikru6-max&show_icons=true&theme=tokyonight)
 
 ## 📈 Contribution Graph
 
