@@ -78,13 +78,12 @@ Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=millionfikru6-max&theme=tokyonight)
+
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=millionfikru6-max&theme=tokyo-night)
-![Visitors](https://komarev.com/ghpvc/?username=millionfikru6-max&color=blue)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=millionfikru6-max&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)
 ## 👀 Visitors
-
-![](https://komarev.com/ghpvc/?username=millionfikru-max&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=millionfikru6-max&color=blue)
 
 ## 📫 Contact
 
