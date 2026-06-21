@@ -76,7 +76,7 @@ Website: https://ethio-ai.netlify.app/
 Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=millionfikru6-max&theme=tokyonight&no-frame=true)
+![GitHub Trophies](https://placehold.co/1000x250/0d1117/58a6ff?text=🏆+GitHub+Trophies)
 
 ## 📈 Contribution Graph
 
