@@ -20,18 +20,21 @@ Million Fikru
 GitHub: https://github.com/millionfikru6-max⁠�
 📜 License
 MIT License
-## 📷 Screenshots
-### Home Page
 
-![Home Page](https://your-image-link)
+## 📸 Screenshots
 
-### Music Section
+### 🏠 Home Page
 
-![Music Section](https://your-image-link)
+![Home Page](https://via.placeholder.com/900x500/0d1117/58a6ff?text=ETHIO-AI+Home+Page)
 
-### AI Features
+### 🎵 Music Section
 
-![AI Features](https://your-image-link)
+![Music Section](https://via.placeholder.com/900x500/0d1117/58a6ff?text=ETHIO-AI+Music+Section)
+
+### 🤖 AI Features
+
+![AI Features](https://via.placeholder.com/900x500/0d1117/58a6ff?text=ETHIO-AI+AI+Features)
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 
