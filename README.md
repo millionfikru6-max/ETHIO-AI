@@ -78,3 +78,6 @@ Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=millionfikru6-max&theme=tokyonight)
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=millionfikru6-max&theme=tokyo-night)
