@@ -21,21 +21,17 @@ GitHub: https://github.com/millionfikru6-max⁠�
 📜 License
 MIT License
 
-## 📸 Screenshots
-
 ### 🏠 Home Page
 
-![Home Page](https://via.placeholder.com/900x500/0d1117/58a6ff?text=ETHIO-AI+Home+Page)
+![Home Page](https://placehold.co/1000x500/111827/00d9ff?text=ETHIO-AI+HOME+PAGE)
 
 ### 🎵 Music Section
 
-![Music Section](https://via.placeholder.com/900x500/0d1117/58a6ff?text=ETHIO-AI+Music+Section)
+![Music Section](https://placehold.co/1000x500/1a1a2e/e94560?text=ETHIO-AI+MUSIC+SECTION)
 
 ### 🤖 AI Features
 
-![AI Features](https://via.placeholder.com/900x500/0d1117/58a6ff?text=ETHIO-AI+AI+Features)
-
-
+![AI Features](https://placehold.co/1000x500/16213e/f7b801?text=ETHIO-AI+AI+FEATURES)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
