@@ -104,3 +104,12 @@ Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 ## 🛠 Tech Stack
 
 HTML5 • CSS3 • JavaScript • GitHub • Netlify
+## 🌟 About ETHIO-AI
+
+ETHIO-AI is a futuristic Ethiopian AI music and entertainment platform inspired by cyberpunk design and Ethiopian culture.
+
+🚀 Mission:
+To combine Ethiopian culture with Artificial Intelligence and create a unique digital entertainment experience for people around the world.
+
+🌍 Motto:
+"Where Ethiopian Culture Meets Artificial Intelligence."
