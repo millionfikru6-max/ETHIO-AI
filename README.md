@@ -92,3 +92,6 @@ Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 
 - GitHub: https://github.com/millionfikru-max
 - Website: https://ethio-ai.netlify.app/
+## 🌍 Vision
+
+"Where Ethiopian Culture Meets Artificial Intelligence."
