@@ -20,3 +20,16 @@ Million Fikru
 GitHub: https://github.com/millionfikru6-max⁠�
 📜 License
 MIT License
+## 📷 Screenshots
+
+### Home Page
+
+(Add screenshot here)
+
+### Music Section
+
+(Add screenshot here)
+
+### AI Features
+
+(Add screenshot here)
