@@ -70,3 +70,8 @@ Website: https://ethio-ai.netlify.app/
 - 🎬 Entertainment Platform
 - 📱 Mobile App Version
 - 🌍 Global Ethiopian Digital Community
+# 🚀 ETHIO-AI
+
+### Ethiopian AI Music, Entertainment & Digital Culture Platform
+
+Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
