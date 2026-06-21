@@ -93,9 +93,7 @@ Where Ethiopian Culture Meets Artificial Intelligence 🌍🤖
 ## 🌍 Vision
 
 "Where Ethiopian Culture Meets Artificial Intelligence."
-## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=millionfikru-max&theme=tokyo-night)
 ## ⚡ Fun Fact
 
 🚀 Building the future of Ethiopian AI and digital entertainment.
